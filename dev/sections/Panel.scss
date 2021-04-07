@@ -1,0 +1,20 @@
+@import '~@btna/styles/variables.scss';
+@import '~@btna/styles/theme.scss';
+
+.panel {
+  display: flex;
+  overflow: hidden;
+}
+
+.left {
+  flex-shrink: 0;
+  width: $general-aside-width;
+  @include theme(background, defaults, secondary-background);
+  overflow: scroll;
+}
+
+.content {
+  flex-grow: 1;
+  overflow: scroll;
+  padding: $general-area-padding;
+}

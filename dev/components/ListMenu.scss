@@ -1,0 +1,18 @@
+@import '~@btna/styles/variables.scss';
+
+.listmenu {
+  padding: $general-area-padding;
+  font-size: 16px;
+}
+
+.item {
+}
+
+.group {
+  padding-left: 10px;
+  overflow: hidden;
+
+  &:not(.is_open) {
+    max-height: 0;
+  }
+}

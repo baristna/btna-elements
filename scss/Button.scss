@@ -1,0 +1,126 @@
+@import '~@btna/styles/theme.scss';
+@import '~@btna/styles/variables.scss';
+
+.button {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+
+  height: $input-base-height;
+
+  padding: $input-base-padding;
+  border-radius: $input-radius;
+
+  transition: all 0.3s;
+  user-select: none;
+  cursor: pointer;
+
+  &.square {
+    width: $input-base-height;
+  }
+
+  &.round {
+    border-radius: $input-base-height;
+  }
+}
+
+.inner {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.button:not(.noshadow):not(.type_ghost) {
+  @include theme(box-shadow, button, shadow);
+}
+
+
+// Size
+.size_big {
+  height: $input-base-height * 1.5;
+  font-size: $font-size-large;
+
+  &.square {
+    width: $input-base-height * 1.5;
+  }
+
+  &.round {
+    border-radius: $input-base-height * 1.5;
+  }
+}
+
+.size_small {
+  height: $input-base-height / 1.5;
+  font-size: $font-size-small;
+
+  &.square {
+    width: $input-base-height / 1.5;
+  }
+
+  &.round {
+    border-radius: $input-base-height / 1.5;
+  }
+}
+
+// Width
+.width_wide {
+  padding-left: $input-base-padding * 4;
+  padding-right: $input-base-padding * 4;
+}
+
+.width_extra {
+  padding-left: $input-base-padding * 8;
+  padding-right: $input-base-padding * 8;
+}
+
+.width_full {
+  width: 100%;
+}
+
+// Height
+.height_fill {
+  height: 100%;
+}
+
+// Justify
+.just_between {
+  span {
+    width: 100%;
+    justify-content: space-between;
+  }
+}
+
+// Type
+.type_primary {
+  @include theme(background, button, primary-background);
+  @include theme(color, button, primary-text);
+  @include theme(border, button, primary-border);
+
+  &:hover {
+    @include theme(background, button, primary-background-hover);
+    @include theme(color, button, primary-text);
+  }
+}
+
+.type_secondary {
+  @include theme(background, button, secondary-background);
+  @include theme(color, button, secondary-text);
+  @include theme(border, button, secondary-border, 1px solid);
+
+  &:hover {
+    @include theme(background, button, secondary-background-hover);
+    @include theme(color, button, secondary-text);
+    @include theme(border-color, button, secondary-border-hover);
+  }
+}
+
+.type_ghost {
+  @include theme(background, button, ghost-background);
+  @include theme(color, button, ghost-text);
+  @include theme(border, button, ghost-border, 0px solid);
+
+  &:hover {
+    @include theme(color, button, ghost-text-hover);
+    @include theme(background, button, ghost-background-hover);
+  }
+}

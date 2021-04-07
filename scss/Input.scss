@@ -1,0 +1,55 @@
+@import '~@btna/styles/theme.scss';
+@import '~@btna/styles/variables.scss';
+
+.input {
+  height: $input-base-height;
+  padding: $input-base-padding;
+
+  @include theme(background, input, background);
+  @include theme(border, defaults, border, 1px solid);
+
+  &::placeholder {
+    @include theme(color, input, placeholder);
+  }
+}
+
+.file {
+  position: relative;
+  overflow: hidden;
+  cursor: pointer;
+
+  input {
+    position: absolute;
+    left: 0;
+    right: 0;
+    top: 0;
+    bottom: 0;
+    opacity: 0;
+    z-index: 1000;
+  }
+}
+
+.textarea {
+  height: $input-base-height * 2;
+  padding: $input-base-padding;
+
+  @include theme(background, input, background);
+  @include theme(border, defaults, border, 1px solid);
+  
+  resize: none;
+}
+
+// Width
+.width_wide {
+  padding-left: $input-base-padding * 4;
+  padding-right: $input-base-padding * 4;
+}
+
+.width_extra {
+  padding-left: $input-base-padding * 8;
+  padding-right: $input-base-padding * 8;
+}
+
+.width_full {
+  width: 100%;
+}

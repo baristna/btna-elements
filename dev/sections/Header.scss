@@ -1,0 +1,19 @@
+@import '~@btna/styles/variables.scss';
+@import '~@btna/styles/theme.scss';
+
+.header {
+  @include theme(background, defaults, secondary-background);
+  display: flex;
+  height: $general-header-height;
+}
+
+.logo {
+  width: $general-aside-width;
+  padding: $general-area-padding;
+  display: flex;
+  align-items: center;
+}
+
+.divider {
+  flex-grow: 1;
+}

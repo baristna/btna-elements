@@ -1,0 +1,3433 @@
+.error {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe900;');
+}
+.error_outline {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe901;');
+}
+.warningreport_problem {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe902;');
+}
+.add_alert {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe903;');
+}
+.notification_important {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe904;');
+}
+.album {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe905;');
+}
+.av_timer {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe906;');
+}
+.closed_caption {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe907;');
+}
+.equalizer {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe908;');
+}
+.explicit {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe909;');
+}
+.fast_forward {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe90a;');
+}
+.fast_rewind {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe90b;');
+}
+.gamesgamepad {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe90c;');
+}
+.hearing {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe90d;');
+}
+.high_quality {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe90e;');
+}
+.loopsync {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe90f;');
+}
+.mic {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe910;');
+}
+.mic_none {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe911;');
+}
+.mic_off {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe912;');
+}
+.moviemovie_creation {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe913;');
+}
+.library_addqueueadd_to_photos {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe914;');
+}
+.library_books {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe915;');
+}
+.library_music {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe916;');
+}
+.new_releases {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe917;');
+}
+.not_interesteddo_not_disturb {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe918;');
+}
+.pause {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe919;');
+}
+.pause_circle_filled {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe91a;');
+}
+.pause_circle_outline {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe91b;');
+}
+.play_arrow {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe91c;');
+}
+.play_circle_filled {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe91d;');
+}
+.play_circle_outline {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe91e;');
+}
+.playlist_add {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe91f;');
+}
+.queue_music {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe920;');
+}
+.radio {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe921;');
+}
+.recent_actors {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe922;');
+}
+.repeat {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe923;');
+}
+.repeat_one {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe924;');
+}
+.replay {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe925;');
+}
+.shuffle {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe926;');
+}
+.skip_next {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe927;');
+}
+.skip_previous {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe928;');
+}
+.snooze {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe929;');
+}
+.stop {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe92a;');
+}
+.subtitles {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe92b;');
+}
+.surround_sound {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe92c;');
+}
+.video_collection {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe92d;');
+}
+.videocam {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe92e;');
+}
+.videocam_off {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe92f;');
+}
+.volume_down {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe930;');
+}
+.volume_mute {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe931;');
+}
+.volume_off {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe932;');
+}
+.volume_up {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe933;');
+}
+.web {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe934;');
+}
+.hd {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe935;');
+}
+.sort_by_alpha {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe936;');
+}
+.airplay {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe937;');
+}
+.forward_10 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe938;');
+}
+.forward_30 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe939;');
+}
+.forward_5 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe93a;');
+}
+.replay_10 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe93b;');
+}
+.replay_30 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe93c;');
+}
+.replay_5 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe93d;');
+}
+.add_to_queue {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe93e;');
+}
+.fiber_dvr {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe93f;');
+}
+.fiber_new {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe940;');
+}
+.playlist_play {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe941;');
+}
+.art_track {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe942;');
+}
+.fiber_manual_record {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe943;');
+}
+.fiber_smart_record {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe944;');
+}
+.music_video {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe945;');
+}
+.subscriptions {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe946;');
+}
+.playlist_add_check {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe947;');
+}
+.queue_play_next {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe948;');
+}
+.remove_from_queue {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe949;');
+}
+.slow_motion_video {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe94a;');
+}
+.web_asset {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe94b;');
+}
+.fiber_pin {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe94c;');
+}
+.branding_watermark {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe94d;');
+}
+.call_to_action {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe94e;');
+}
+.featured_play_list {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe94f;');
+}
+.featured_video {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe950;');
+}
+.note {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe951;');
+}
+.video_call {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe952;');
+}
+.video_label {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe953;');
+}
+.4k {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe954;');
+}
+.missed_video_call {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe955;');
+}
+.control_camera {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe956;');
+}
+.businessdomain {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe957;');
+}
+.call {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe958;');
+}
+.call_end {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe959;');
+}
+.call_made {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe95a;');
+}
+.call_mergemerge_type {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe95b;');
+}
+.call_missed {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe95c;');
+}
+.call_received {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe95d;');
+}
+.call_split {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe95e;');
+}
+.chat {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe95f;');
+}
+.clear_all {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe960;');
+}
+.comment {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe961;');
+}
+.contacts {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe962;');
+}
+.dialer_sip {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe963;');
+}
+.dialpad {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe964;');
+}
+.emailmailmarkunreadlocal_post_office {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe965;');
+}
+.forumquestion_answer {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe966;');
+}
+.import_export {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe967;');
+}
+.invert_colors_off {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe968;');
+}
+.live_help {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe969;');
+}
+.location_off {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe96a;');
+}
+.location_onplaceroom {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe96b;');
+}
+.message {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe96c;');
+}
+.chat_bubble {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe96d;');
+}
+.chat_bubble_outline {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe96e;');
+}
+.no_simsignal_cellular_no_sim {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe96f;');
+}
+.phonelocal_phone {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe970;');
+}
+.portable_wifi_off {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe971;');
+}
+.contact_phone {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe972;');
+}
+.contact_mail {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe973;');
+}
+.ring_volume {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe974;');
+}
+.speaker_phone {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe975;');
+}
+.stay_current_landscapestay_primary_landscape {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe976;');
+}
+.stay_current_portraitstay_primary_portraitsmartphone {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe977;');
+}
+.swap_calls {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe978;');
+}
+.textsmssms {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe979;');
+}
+.voicemail {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe97a;');
+}
+.vpn_key {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe97b;');
+}
+.phonelink_erase {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe97c;');
+}
+.phonelink_lock {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe97d;');
+}
+.phonelink_ring {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe97e;');
+}
+.phonelink_setup {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe97f;');
+}
+.present_to_all {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe980;');
+}
+.import_contacts {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe981;');
+}
+.mail_outline {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe982;');
+}
+.screen_share {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe983;');
+}
+.stop_screen_share {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe984;');
+}
+.call_missed_outgoing {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe985;');
+}
+.rss_feed {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe986;');
+}
+.alternate_email {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe987;');
+}
+.mobile_screen_share {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe988;');
+}
+.add_call {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe989;');
+}
+.cancel_presentation {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe98a;');
+}
+.pause_presentation {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe98b;');
+}
+.unsubscribe {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe98c;');
+}
+.cell_wifi {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe98d;');
+}
+.sentiment_satisfied_alt {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe98e;');
+}
+.list_alt {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe98f;');
+}
+.domain_disabled {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe990;');
+}
+.lightbulb {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe991;');
+}
+.add {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe992;');
+}
+.add_box {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe993;');
+}
+.add_circle {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe994;');
+}
+.add_circle_outlinecontrol_point {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe995;');
+}
+.archive {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe996;');
+}
+.backspace {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe997;');
+}
+.block {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe998;');
+}
+.clearclose {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe999;');
+}
+.content_copy {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe99a;');
+}
+.content_cut {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe99b;');
+}
+.content_paste {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe99c;');
+}
+.createmode_editedit {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe99d;');
+}
+.drafts {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe99e;');
+}
+.filter_list {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe99f;');
+}
+.flagassistant_photo {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe9a0;');
+}
+.forward {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe9a1;');
+}
+.gesture {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe9a2;');
+}
+.inbox {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe9a3;');
+}
+.linkinsert_link {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe9a4;');
+}
+.redo {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe9a5;');
+}
+.remove {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe9a6;');
+}
+.remove_circledo_not_disturb_on {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe9a7;');
+}
+.remove_circle_outline {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe9a8;');
+}
+.reply {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe9a9;');
+}
+.reply_all {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe9aa;');
+}
+.report {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe9ab;');
+}
+.save {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe9ac;');
+}
+.select_all {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe9ad;');
+}
+.send {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe9ae;');
+}
+.sort {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe9af;');
+}
+.text_format {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe9b0;');
+}
+.undo {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe9b1;');
+}
+.font_download {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe9b2;');
+}
+.move_to_inbox {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe9b3;');
+}
+.unarchive {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe9b4;');
+}
+.next_week {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe9b5;');
+}
+.weekend {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe9b6;');
+}
+.delete_sweep {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe9b7;');
+}
+.low_priority {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe9b8;');
+}
+.outlined_flag {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe9b9;');
+}
+.link_off {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe9ba;');
+}
+.report_off {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe9bb;');
+}
+.save_alt {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe9bc;');
+}
+.ballot {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe9bd;');
+}
+.file_copy {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe9be;');
+}
+.how_to_reg {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe9bf;');
+}
+.how_to_vote {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe9c0;');
+}
+.waves {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe9c1;');
+}
+.where_to_vote {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe9c2;');
+}
+.add_link {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe9c3;');
+}
+.inventory {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe9c4;');
+}
+.access_alarmalarm {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe9c5;');
+}
+.access_alarms {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe9c6;');
+}
+.access_timequery_builderschedule {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe9c7;');
+}
+.add_alarmalarm_add {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe9c8;');
+}
+.airplanemode_inactive {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe9c9;');
+}
+.airplanemode_activeflightlocal_airport {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe9ca;');
+}
+.battery_alert {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe9cb;');
+}
+.battery_charging_full {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe9cc;');
+}
+.battery_fullbattery_std {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe9cd;');
+}
+.battery_unknown {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe9ce;');
+}
+.bluetooth {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe9cf;');
+}
+.bluetooth_connected {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe9d0;');
+}
+.bluetooth_disabled {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe9d1;');
+}
+.bluetooth_searchingbluetooth_audio {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe9d2;');
+}
+.brightness_auto {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe9d3;');
+}
+.brightness_highbrightness_7 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe9d4;');
+}
+.brightness_lowbrightness_5 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe9d5;');
+}
+.brightness_mediumbrightness_6 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe9d6;');
+}
+.data_usage {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe9d7;');
+}
+.developer_mode {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe9d8;');
+}
+.devicesphonelink {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe9d9;');
+}
+.dvr {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe9da;');
+}
+.gps_fixedmy_location {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe9db;');
+}
+.gps_not_fixedlocation_searching {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe9dc;');
+}
+.gps_offlocation_disabled {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe9dd;');
+}
+.graphic_eq {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe9de;');
+}
+.network_cell {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe9df;');
+}
+.network_wifi {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe9e0;');
+}
+.nfc {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe9e1;');
+}
+.now_wallpaper {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe9e2;');
+}
+.now_widgets {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe9e3;');
+}
+.screen_lock_landscape {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe9e4;');
+}
+.screen_lock_portrait {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe9e5;');
+}
+.screen_lock_rotation {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe9e6;');
+}
+.screen_rotation {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe9e7;');
+}
+.sd_storagesd_card {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe9e8;');
+}
+.settings_system_daydream {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe9e9;');
+}
+.signal_cellular_4_bar {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe9ea;');
+}
+.signal_cellular_connected_no_internet_4_bar {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe9eb;');
+}
+.signal_cellular_null {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe9ec;');
+}
+.signal_cellular_off {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe9ed;');
+}
+.signal_wifi_4_bar {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe9ee;');
+}
+.signal_wifi_4_bar_lock {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe9ef;');
+}
+.signal_wifi_off {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe9f0;');
+}
+.storage {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe9f1;');
+}
+.usb {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe9f2;');
+}
+.wifi_lock {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe9f3;');
+}
+.wifi_tethering {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe9f4;');
+}
+.add_to_home_screen {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe9f5;');
+}
+.device_thermostat {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe9f6;');
+}
+.mobile_friendly {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe9f7;');
+}
+.mobile_off {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe9f8;');
+}
+.signal_cellular_alt {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe9f9;');
+}
+.attach_file {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe9fa;');
+}
+.attach_money {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe9fb;');
+}
+.border_all {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe9fc;');
+}
+.border_bottom {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe9fd;');
+}
+.border_clear {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe9fe;');
+}
+.border_color {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe9ff;');
+}
+.border_horizontal {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xea00;');
+}
+.border_inner {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xea01;');
+}
+.border_left {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xea02;');
+}
+.border_outer {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xea03;');
+}
+.border_right {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xea04;');
+}
+.border_style {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xea05;');
+}
+.border_top {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xea06;');
+}
+.border_vertical {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xea07;');
+}
+.format_align_center {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xea08;');
+}
+.format_align_justify {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xea09;');
+}
+.format_align_left {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xea0a;');
+}
+.format_align_right {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xea0b;');
+}
+.format_bold {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xea0c;');
+}
+.format_clear {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xea0d;');
+}
+.format_color_fill {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xea0e;');
+}
+.format_color_reset {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xea0f;');
+}
+.format_color_text {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xea10;');
+}
+.format_indent_decrease {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xea11;');
+}
+.format_indent_increase {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xea12;');
+}
+.format_italic {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xea13;');
+}
+.format_line_spacing {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xea14;');
+}
+.format_list_bulleted {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xea15;');
+}
+.format_list_numbered {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xea16;');
+}
+.format_paint {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xea17;');
+}
+.format_quote {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xea18;');
+}
+.format_size {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xea19;');
+}
+.format_strikethrough {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xea1a;');
+}
+.format_textdirection_l_to_r {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xea1b;');
+}
+.format_textdirection_r_to_l {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xea1c;');
+}
+.format_underlined {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xea1d;');
+}
+.functions {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xea1e;');
+}
+.insert_chartpollassessment {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xea1f;');
+}
+.insert_comment {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xea20;');
+}
+.insert_drive_file {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xea21;');
+}
+.insert_emoticontag_facesmood {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xea22;');
+}
+.insert_invitationevent {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xea23;');
+}
+.insert_photoimagephoto {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xea24;');
+}
+.mode_comment {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xea25;');
+}
+.publish {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xea26;');
+}
+.space_bar {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xea27;');
+}
+.strikethrough_s {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xea28;');
+}
+.vertical_align_bottom {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xea29;');
+}
+.vertical_align_center {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xea2a;');
+}
+.vertical_align_top {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xea2b;');
+}
+.wrap_text {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xea2c;');
+}
+.money_off {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xea2d;');
+}
+.drag_handle {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xea2e;');
+}
+.format_shapes {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xea2f;');
+}
+.highlight {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xea30;');
+}
+.linear_scale {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xea31;');
+}
+.short_text {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xea32;');
+}
+.text_fields {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xea33;');
+}
+.monetization_on {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xea34;');
+}
+.title {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xea35;');
+}
+.table_chart {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xea36;');
+}
+.add_comment {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xea37;');
+}
+.format_list_numbered_rtl {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xea38;');
+}
+.scatter_plot {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xea39;');
+}
+.score {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xea3a;');
+}
+.insert_chart_outlined {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xea3b;');
+}
+.bar_chart {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xea3c;');
+}
+.notes {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xea3d;');
+}
+.attachment {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xea3e;');
+}
+.cloud {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xea3f;');
+}
+.cloud_circle {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xea40;');
+}
+.cloud_done {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xea41;');
+}
+.cloud_download {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xea42;');
+}
+.cloud_off {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xea43;');
+}
+.cloud_queue {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xea44;');
+}
+.cloud_uploadbackup {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xea45;');
+}
+.file_downloadget_app {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xea46;');
+}
+.file_upload {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xea47;');
+}
+.folder {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xea48;');
+}
+.folder_open {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xea49;');
+}
+.folder_shared {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xea4a;');
+}
+.create_new_folder {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xea4b;');
+}
+.cast {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xea4c;');
+}
+.cast_connected {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xea4d;');
+}
+.computerlaptop {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xea4e;');
+}
+.desktop_mac {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xea4f;');
+}
+.desktop_windows {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xea50;');
+}
+.developer_board {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xea51;');
+}
+.dock {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xea52;');
+}
+.headset {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xea53;');
+}
+.headset_mic {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xea54;');
+}
+.keyboard {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xea55;');
+}
+.keyboard_arrow_down {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xea56;');
+}
+.keyboard_arrow_left {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xea57;');
+}
+.keyboard_arrow_right {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xea58;');
+}
+.keyboard_arrow_up {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xea59;');
+}
+.keyboard_backspace {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xea5a;');
+}
+.keyboard_capslock {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xea5b;');
+}
+.keyboard_hide {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xea5c;');
+}
+.keyboard_return {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xea5d;');
+}
+.keyboard_tab {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xea5e;');
+}
+.keyboard_voice {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xea5f;');
+}
+.laptop_chromebook {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xea60;');
+}
+.laptop_mac {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xea61;');
+}
+.laptop_windows {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xea62;');
+}
+.memory {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xea63;');
+}
+.mouse {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xea64;');
+}
+.phone_android {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xea65;');
+}
+.phone_iphone {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xea66;');
+}
+.phonelink_off {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xea67;');
+}
+.router {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xea68;');
+}
+.scanner {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xea69;');
+}
+.security {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xea6a;');
+}
+.sim_card {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xea6b;');
+}
+.speaker {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xea6c;');
+}
+.speaker_group {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xea6d;');
+}
+.tablet {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xea6e;');
+}
+.tablet_android {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xea6f;');
+}
+.tablet_mac {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xea70;');
+}
+.toys {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xea71;');
+}
+.tv {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xea72;');
+}
+.watch {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xea73;');
+}
+.device_hub {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xea74;');
+}
+.power_input {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xea75;');
+}
+.devices_other {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xea76;');
+}
+.videogame_asset {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xea77;');
+}
+.device_unknown {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xea78;');
+}
+.headset_off {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xea79;');
+}
+.adjust {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xea7a;');
+}
+.assistant {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xea7b;');
+}
+.audiotrack {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xea7c;');
+}
+.blur_circular {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xea7d;');
+}
+.blur_linear {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xea7e;');
+}
+.blur_off {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xea7f;');
+}
+.blur_on {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xea80;');
+}
+.brightness_1 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xea81;');
+}
+.brightness_2 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xea82;');
+}
+.brightness_3 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xea83;');
+}
+.brightness_4 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xea84;');
+}
+.broken_image {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xea85;');
+}
+.brush {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xea86;');
+}
+.camera {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xea87;');
+}
+.camera_altphoto_cameralocal_see {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xea88;');
+}
+.camera_front {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xea89;');
+}
+.camera_rear {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xea8a;');
+}
+.camera_roll {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xea8b;');
+}
+.center_focus_strong {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xea8c;');
+}
+.center_focus_weak {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xea8d;');
+}
+.collectionsphoto_library {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xea8e;');
+}
+.color_lenspalette {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xea8f;');
+}
+.colorize {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xea90;');
+}
+.compare {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xea91;');
+}
+.control_point_duplicate {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xea92;');
+}
+.crop_16_9 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xea93;');
+}
+.crop_3_2 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xea94;');
+}
+.crop {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xea95;');
+}
+.crop_5_4crop_landscape {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xea96;');
+}
+.crop_7_5 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xea97;');
+}
+.crop_din {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xea98;');
+}
+.crop_free {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xea99;');
+}
+.crop_original {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xea9a;');
+}
+.crop_portrait {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xea9b;');
+}
+.crop_square {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xea9c;');
+}
+.dehaze {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xea9d;');
+}
+.details {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xea9e;');
+}
+.exposure {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xea9f;');
+}
+.exposure_minus_1 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xeaa0;');
+}
+.exposure_minus_2 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xeaa1;');
+}
+.exposure_plus_1 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xeaa2;');
+}
+.exposure_plus_2 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xeaa3;');
+}
+.exposure_zero {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xeaa4;');
+}
+.filter_1 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xeaa5;');
+}
+.filter_2 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xeaa6;');
+}
+.filter_3 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xeaa7;');
+}
+.filter {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xeaa8;');
+}
+.filter_4 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xeaa9;');
+}
+.filter_5 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xeaaa;');
+}
+.filter_6 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xeaab;');
+}
+.filter_7 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xeaac;');
+}
+.filter_8 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xeaad;');
+}
+.filter_9 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xeaae;');
+}
+.filter_9_plus {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xeaaf;');
+}
+.filter_b_and_w {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xeab0;');
+}
+.filter_center_focus {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xeab1;');
+}
+.filter_drama {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xeab2;');
+}
+.filter_frames {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xeab3;');
+}
+.filter_hdrlandscapeterrain {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xeab4;');
+}
+.filter_none {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xeab5;');
+}
+.filter_tilt_shift {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xeab6;');
+}
+.filter_vintage {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xeab7;');
+}
+.flare {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xeab8;');
+}
+.flash_auto {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xeab9;');
+}
+.flash_off {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xeaba;');
+}
+.flash_on {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xeabb;');
+}
+.flip {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xeabc;');
+}
+.gradient {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xeabd;');
+}
+.grain {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xeabe;');
+}
+.grid_off {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xeabf;');
+}
+.grid_on {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xeac0;');
+}
+.hdr_off {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xeac1;');
+}
+.hdr_on {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xeac2;');
+}
+.hdr_strong {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xeac3;');
+}
+.hdr_weak {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xeac4;');
+}
+.healing {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xeac5;');
+}
+.image_aspect_ratio {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xeac6;');
+}
+.iso {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xeac7;');
+}
+.leak_add {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xeac8;');
+}
+.leak_remove {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xeac9;');
+}
+.lens {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xeaca;');
+}
+.looks_3 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xeacb;');
+}
+.looks {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xeacc;');
+}
+.looks_4 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xeacd;');
+}
+.looks_5 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xeace;');
+}
+.looks_6 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xeacf;');
+}
+.looks_one {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xead0;');
+}
+.looks_two {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xead1;');
+}
+.loupe {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xead2;');
+}
+.monochrome_photos {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xead3;');
+}
+.music_note {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xead4;');
+}
+.nature {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xead5;');
+}
+.nature_people {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xead6;');
+}
+.navigate_beforechevron_left {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xead7;');
+}
+.navigate_nextchevron_right {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xead8;');
+}
+.panorama {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xead9;');
+}
+.panorama_fish_eyeradio_button_unchecked {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xeada;');
+}
+.panorama_horizontal {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xeadb;');
+}
+.panorama_vertical {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xeadc;');
+}
+.panorama_wide_angle {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xeadd;');
+}
+.photo_album {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xeade;');
+}
+.picture_as_pdf {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xeadf;');
+}
+.portrait {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xeae0;');
+}
+.remove_red_eyevisibility {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xeae1;');
+}
+.rotate_90_degrees_ccw {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xeae2;');
+}
+.rotate_left {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xeae3;');
+}
+.rotate_right {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xeae4;');
+}
+.slideshow {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xeae5;');
+}
+.straighten {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xeae6;');
+}
+.style {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xeae7;');
+}
+.switch_camera {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xeae8;');
+}
+.switch_video {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xeae9;');
+}
+.texture {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xeaea;');
+}
+.timelapse {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xeaeb;');
+}
+.timer_10 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xeaec;');
+}
+.timer_3 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xeaed;');
+}
+.timer {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xeaee;');
+}
+.timer_off {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xeaef;');
+}
+.tonality {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xeaf0;');
+}
+.transform {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xeaf1;');
+}
+.tune {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xeaf2;');
+}
+.view_comfortable {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xeaf3;');
+}
+.view_compact {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xeaf4;');
+}
+.wb_auto {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xeaf5;');
+}
+.wb_cloudy {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xeaf6;');
+}
+.wb_incandescent {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xeaf7;');
+}
+.wb_sunny {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xeaf8;');
+}
+.collections_bookmark {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xeaf9;');
+}
+.photo_size_select_actual {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xeafa;');
+}
+.photo_size_select_large {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xeafb;');
+}
+.photo_size_select_small {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xeafc;');
+}
+.vignette {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xeafd;');
+}
+.wb_iridescent {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xeafe;');
+}
+.crop_rotate {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xeaff;');
+}
+.linked_camera {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xeb00;');
+}
+.add_a_photo {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xeb01;');
+}
+.movie_filter {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xeb02;');
+}
+.photo_filter {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xeb03;');
+}
+.burst_mode {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xeb04;');
+}
+.shutter_speed {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xeb05;');
+}
+.add_photo_alternate {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xeb06;');
+}
+.image_search {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xeb07;');
+}
+.music_off {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xeb08;');
+}
+.beenhere {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xeb09;');
+}
+.directions {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xeb0a;');
+}
+.directions_bike {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xeb0b;');
+}
+.directions_bus {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xeb0c;');
+}
+.directions_car {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xeb0d;');
+}
+.directions_ferry {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xeb0e;');
+}
+.directions_subwaydirections_transit {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xeb0f;');
+}
+.directions_railway {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xeb10;');
+}
+.directions_walk {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xeb11;');
+}
+.hotellocal_hotel {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xeb12;');
+}
+.layers {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xeb13;');
+}
+.layers_clear {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xeb14;');
+}
+.local_atm {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xeb15;');
+}
+.local_attractionlocal_play {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xeb16;');
+}
+.local_bar {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xeb17;');
+}
+.local_cafefree_breakfast {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xeb18;');
+}
+.local_car_wash {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xeb19;');
+}
+.local_convenience_store {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xeb1a;');
+}
+.local_drink {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xeb1b;');
+}
+.local_florist {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xeb1c;');
+}
+.local_gas_station {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xeb1d;');
+}
+.local_grocery_storeshopping_cart {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xeb1e;');
+}
+.local_hospital {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xeb1f;');
+}
+.local_laundry_service {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xeb20;');
+}
+.local_library {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xeb21;');
+}
+.local_mall {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xeb22;');
+}
+.local_moviestheaters {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xeb23;');
+}
+.local_offer {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xeb24;');
+}
+.local_parking {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xeb25;');
+}
+.local_pharmacy {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xeb26;');
+}
+.local_pizza {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xeb27;');
+}
+.local_print_shopprint {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xeb28;');
+}
+.local_restaurantrestaurant_menu {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xeb29;');
+}
+.local_shipping {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xeb2a;');
+}
+.local_taxi {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xeb2b;');
+}
+.location_history {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xeb2c;');
+}
+.map {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xeb2d;');
+}
+.navigation {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xeb2e;');
+}
+.pin_drop {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xeb2f;');
+}
+.rate_review {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xeb30;');
+}
+.satellite {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xeb31;');
+}
+.store_mall_directorystore {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xeb32;');
+}
+.traffic {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xeb33;');
+}
+.directions_run {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xeb34;');
+}
+.add_location {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xeb35;');
+}
+.edit_location {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xeb36;');
+}
+.near_me {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xeb37;');
+}
+.person_pin_circle {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xeb38;');
+}
+.zoom_out_map {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xeb39;');
+}
+.restaurant {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xeb3a;');
+}
+.ev_station {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xeb3b;');
+}
+.streetview {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xeb3c;');
+}
+.subway {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xeb3d;');
+}
+.train {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xeb3e;');
+}
+.tram {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xeb3f;');
+}
+.transfer_within_a_station {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xeb40;');
+}
+.atm {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xeb41;');
+}
+.category {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xeb42;');
+}
+.not_listed_location {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xeb43;');
+}
+.departure_board {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xeb44;');
+}
+.360 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xeb45;');
+}
+.edit_attributes {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xeb46;');
+}
+.transit_enterexit {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xeb47;');
+}
+.fastfood {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xeb48;');
+}
+.trip_origin {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xeb49;');
+}
+.compass_calibration {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xeb4a;');
+}
+.money {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xeb4b;');
+}
+.apps {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xeb4c;');
+}
+.arrow_back {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xeb4d;');
+}
+.arrow_drop_down {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xeb4e;');
+}
+.arrow_drop_down_circle {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xeb4f;');
+}
+.arrow_drop_up {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xeb50;');
+}
+.arrow_forward {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xeb51;');
+}
+.cancel {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xeb52;');
+}
+.check {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xeb53;');
+}
+.expand_less {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xeb54;');
+}
+.expand_more {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xeb55;');
+}
+.fullscreen {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xeb56;');
+}
+.fullscreen_exit {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xeb57;');
+}
+.menu {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xeb58;');
+}
+.keyboard_control {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xeb59;');
+}
+.more_vert {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xeb5a;');
+}
+.refresh {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xeb5b;');
+}
+.unfold_less {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xeb5c;');
+}
+.unfold_more {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xeb5d;');
+}
+.arrow_upward {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xeb5e;');
+}
+.subdirectory_arrow_left {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xeb5f;');
+}
+.subdirectory_arrow_right {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xeb60;');
+}
+.arrow_downward {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xeb61;');
+}
+.first_page {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xeb62;');
+}
+.last_page {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xeb63;');
+}
+.arrow_left {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xeb64;');
+}
+.arrow_right {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xeb65;');
+}
+.arrow_back_ios {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xeb66;');
+}
+.arrow_forward_ios {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xeb67;');
+}
+.adb {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xeb68;');
+}
+.disc_full {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xeb69;');
+}
+.do_not_disturb_alt {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xeb6a;');
+}
+.drive_etatime_to_leave {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xeb6b;');
+}
+.event_available {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xeb6c;');
+}
+.event_busy {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xeb6d;');
+}
+.event_note {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xeb6e;');
+}
+.folder_special {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xeb6f;');
+}
+.mms {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xeb70;');
+}
+.more {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xeb71;');
+}
+.network_locked {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xeb72;');
+}
+.phone_bluetooth_speaker {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xeb73;');
+}
+.phone_forwarded {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xeb74;');
+}
+.phone_in_talk {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xeb75;');
+}
+.phone_locked {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xeb76;');
+}
+.phone_missed {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xeb77;');
+}
+.phone_paused {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xeb78;');
+}
+.sim_card_alert {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xeb79;');
+}
+.sms_failedfeedback {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xeb7a;');
+}
+.sync_disabled {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xeb7b;');
+}
+.sync_problem {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xeb7c;');
+}
+.system_update {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xeb7d;');
+}
+.tap_and_play {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xeb7e;');
+}
+.vibration {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xeb7f;');
+}
+.voice_chat {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xeb80;');
+}
+.vpn_lock {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xeb81;');
+}
+.airline_seat_flat {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xeb82;');
+}
+.airline_seat_flat_angled {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xeb83;');
+}
+.airline_seat_individual_suite {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xeb84;');
+}
+.airline_seat_legroom_extra {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xeb85;');
+}
+.airline_seat_legroom_normal {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xeb86;');
+}
+.airline_seat_legroom_reduced {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xeb87;');
+}
+.airline_seat_recline_extra {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xeb88;');
+}
+.airline_seat_recline_normal {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xeb89;');
+}
+.confirmation_number {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xeb8a;');
+}
+.live_tv {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xeb8b;');
+}
+.ondemand_video {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xeb8c;');
+}
+.personal_video {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xeb8d;');
+}
+.power {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xeb8e;');
+}
+.wc {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xeb8f;');
+}
+.wifi {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xeb90;');
+}
+.enhanced_encryption {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xeb91;');
+}
+.network_check {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xeb92;');
+}
+.no_encryption {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xeb93;');
+}
+.rv_hookup {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xeb94;');
+}
+.do_not_disturb_off {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xeb95;');
+}
+.priority_high {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xeb96;');
+}
+.power_off {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xeb97;');
+}
+.tv_off {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xeb98;');
+}
+.wifi_off {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xeb99;');
+}
+.phone_callback {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xeb9a;');
+}
+.pie_chart {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xeb9b;');
+}
+.pie_chart_outlined {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xeb9c;');
+}
+.bubble_chart {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xeb9d;');
+}
+.multiline_chart {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xeb9e;');
+}
+.show_chart {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xeb9f;');
+}
+.cake {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xeba0;');
+}
+.grouppeople {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xeba1;');
+}
+.group_add {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xeba2;');
+}
+.location_city {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xeba3;');
+}
+.mood_bad {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xeba4;');
+}
+.notifications {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xeba5;');
+}
+.notifications_none {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xeba6;');
+}
+.notifications_off {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xeba7;');
+}
+.notifications_active {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xeba8;');
+}
+.notifications_paused {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xeba9;');
+}
+.pages {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xebaa;');
+}
+.party_mode {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xebab;');
+}
+.people_outline {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xebac;');
+}
+.person {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xebad;');
+}
+.person_add {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xebae;');
+}
+.person_outlineperm_identity {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xebaf;');
+}
+.plus_one {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xebb0;');
+}
+.public {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xebb1;');
+}
+.school {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xebb2;');
+}
+.share {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xebb3;');
+}
+.whatshot {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xebb4;');
+}
+.sentiment_dissatisfied {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xebb5;');
+}
+.sentiment_neutral {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xebb6;');
+}
+.sentiment_satisfied {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xebb7;');
+}
+.sentiment_very_dissatisfied {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xebb8;');
+}
+.sentiment_very_satisfied {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xebb9;');
+}
+.thumb_down_alt {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xebba;');
+}
+.thumb_up_alt {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xebbb;');
+}
+.check_box {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xebbc;');
+}
+.check_box_outline_blank {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xebbd;');
+}
+.radio_button_checked {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xebbe;');
+}
+.stargrade {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xebbf;');
+}
+.star_half {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xebc0;');
+}
+.star_outline {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xebc1;');
+}
+.3d_rotation {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xebc2;');
+}
+.accessibility {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xebc3;');
+}
+.account_balance {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xebc4;');
+}
+.account_balance_wallet {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xebc5;');
+}
+.account_box {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xebc6;');
+}
+.account_circle {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xebc7;');
+}
+.add_shopping_cart {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xebc8;');
+}
+.alarm_off {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xebc9;');
+}
+.alarm_on {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xebca;');
+}
+.android {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xebcb;');
+}
+.announcement {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xebcc;');
+}
+.aspect_ratio {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xebcd;');
+}
+.assignment {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xebce;');
+}
+.assignment_ind {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xebcf;');
+}
+.assignment_late {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xebd0;');
+}
+.assignment_return {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xebd1;');
+}
+.assignment_returned {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xebd2;');
+}
+.assignment_turned_in {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xebd3;');
+}
+.autorenew {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xebd4;');
+}
+.bookclass {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xebd5;');
+}
+.bookmarkturned_in {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xebd6;');
+}
+.bookmark_outlineturned_in_not {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xebd7;');
+}
+.bug_report {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xebd8;');
+}
+.build {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xebd9;');
+}
+.cached {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xebda;');
+}
+.change_history {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xebdb;');
+}
+.check_circle {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xebdc;');
+}
+.chrome_reader_mode {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xebdd;');
+}
+.code {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xebde;');
+}
+.credit_cardpayment {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xebdf;');
+}
+.dashboard {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xebe0;');
+}
+.delete {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xebe1;');
+}
+.description {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xebe2;');
+}
+.dns {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xebe3;');
+}
+.done {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xebe4;');
+}
+.done_all {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xebe5;');
+}
+.exit_to_app {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xebe6;');
+}
+.explore {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xebe7;');
+}
+.extension {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xebe8;');
+}
+.face {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xebe9;');
+}
+.favorite {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xebea;');
+}
+.favorite_outline {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xebeb;');
+}
+.find_in_page {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xebec;');
+}
+.find_replace {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xebed;');
+}
+.flip_to_back {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xebee;');
+}
+.flip_to_front {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xebef;');
+}
+.group_work {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xebf0;');
+}
+.help {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xebf1;');
+}
+.highlight_remove {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xebf2;');
+}
+.historyrestore {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xebf3;');
+}
+.home {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xebf4;');
+}
+.hourglass_empty {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xebf5;');
+}
+.hourglass_full {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xebf6;');
+}
+.httpslock {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xebf7;');
+}
+.info {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xebf8;');
+}
+.info_outline {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xebf9;');
+}
+.input {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xebfa;');
+}
+.invert_colors_on {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xebfb;');
+}
+.label {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xebfc;');
+}
+.label_outline {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xebfd;');
+}
+.language {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xebfe;');
+}
+.launchopen_in_new {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xebff;');
+}
+.list {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xec00;');
+}
+.lock_open {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xec01;');
+}
+.lock_outline {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xec02;');
+}
+.loyalty {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xec03;');
+}
+.markunread_mailbox {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xec04;');
+}
+.note_add {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xec05;');
+}
+.open_in_browser {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xec06;');
+}
+.open_with {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xec07;');
+}
+.pageview {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xec08;');
+}
+.perm_camera_mic {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xec09;');
+}
+.perm_contact_calendar {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xec0a;');
+}
+.perm_data_setting {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xec0b;');
+}
+.perm_device_information {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xec0c;');
+}
+.perm_media {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xec0d;');
+}
+.perm_phone_msg {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xec0e;');
+}
+.perm_scan_wifi {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xec0f;');
+}
+.picture_in_picture {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xec10;');
+}
+.polymer {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xec11;');
+}
+.power_settings_new {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xec12;');
+}
+.receipt {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xec13;');
+}
+.redeemcard_giftcard {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xec14;');
+}
+.search {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xec15;');
+}
+.settings {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xec16;');
+}
+.settings_applications {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xec17;');
+}
+.settings_backup_restore {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xec18;');
+}
+.settings_bluetooth {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xec19;');
+}
+.settings_cell {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xec1a;');
+}
+.settings_brightness {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xec1b;');
+}
+.settings_ethernet {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xec1c;');
+}
+.settings_input_antenna {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xec1d;');
+}
+.settings_input_componentsettings_input_composite {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xec1e;');
+}
+.settings_input_hdmi {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xec1f;');
+}
+.settings_input_svideo {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xec20;');
+}
+.settings_overscan {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xec21;');
+}
+.settings_phone {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xec22;');
+}
+.settings_power {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xec23;');
+}
+.settings_remote {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xec24;');
+}
+.settings_voice {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xec25;');
+}
+.shop {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xec26;');
+}
+.shop_two {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xec27;');
+}
+.shopping_basket {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xec28;');
+}
+.speaker_notes {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xec29;');
+}
+.spellcheck {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xec2a;');
+}
+.stars {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xec2b;');
+}
+.subject {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xec2c;');
+}
+.supervisor_account {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xec2d;');
+}
+.swap_horiz {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xec2e;');
+}
+.swap_vert {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xec2f;');
+}
+.swap_vertical_circle {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xec30;');
+}
+.system_update_alt {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xec31;');
+}
+.tab {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xec32;');
+}
+.tab_unselected {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xec33;');
+}
+.thumb_down {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xec34;');
+}
+.thumb_up {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xec35;');
+}
+.thumbs_up_down {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xec36;');
+}
+.toc {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xec37;');
+}
+.today {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xec38;');
+}
+.toll {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xec39;');
+}
+.track_changes {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xec3a;');
+}
+.translate {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xec3b;');
+}
+.trending_down {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xec3c;');
+}
+.trending_neutral {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xec3d;');
+}
+.trending_up {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xec3e;');
+}
+.verified_user {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xec3f;');
+}
+.view_agenda {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xec40;');
+}
+.view_array {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xec41;');
+}
+.view_carousel {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xec42;');
+}
+.view_column {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xec43;');
+}
+.view_day {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xec44;');
+}
+.view_headline {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xec45;');
+}
+.view_list {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xec46;');
+}
+.view_module {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xec47;');
+}
+.view_quilt {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xec48;');
+}
+.view_stream {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xec49;');
+}
+.view_week {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xec4a;');
+}
+.visibility_off {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xec4b;');
+}
+.card_membership {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xec4c;');
+}
+.card_travel {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xec4d;');
+}
+.work {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xec4e;');
+}
+.youtube_searched_for {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xec4f;');
+}
+.eject {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xec50;');
+}
+.camera_enhance {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xec51;');
+}
+.help_outline {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xec52;');
+}
+.reorder {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xec53;');
+}
+.zoom_in {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xec54;');
+}
+.zoom_out {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xec55;');
+}
+.http {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xec56;');
+}
+.event_seat {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xec57;');
+}
+.flight_land {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xec58;');
+}
+.flight_takeoff {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xec59;');
+}
+.play_for_work {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xec5a;');
+}
+.gif {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xec5b;');
+}
+.indeterminate_check_box {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xec5c;');
+}
+.offline_pin {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xec5d;');
+}
+.all_out {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xec5e;');
+}
+.copyright {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xec5f;');
+}
+.fingerprint {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xec60;');
+}
+.gavel {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xec61;');
+}
+.lightbulb_outline {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xec62;');
+}
+.picture_in_picture_alt {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xec63;');
+}
+.important_devices {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xec64;');
+}
+.touch_app {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xec65;');
+}
+.accessible {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xec66;');
+}
+.compare_arrows {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xec67;');
+}
+.date_range {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xec68;');
+}
+.donut_large {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xec69;');
+}
+.donut_small {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xec6a;');
+}
+.line_style {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xec6b;');
+}
+.line_weight {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xec6c;');
+}
+.motorcycle {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xec6d;');
+}
+.opacity {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xec6e;');
+}
+.pets {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xec6f;');
+}
+.pregnant_woman {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xec70;');
+}
+.record_voice_over {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xec71;');
+}
+.rounded_corner {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xec72;');
+}
+.rowing {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xec73;');
+}
+.timeline {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xec74;');
+}
+.update {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xec75;');
+}
+.watch_later {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xec76;');
+}
+.pan_tool {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xec77;');
+}
+.euro_symbol {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xec78;');
+}
+.g_translate {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xec79;');
+}
+.remove_shopping_cart {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xec7a;');
+}
+.restore_page {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xec7b;');
+}
+.speaker_notes_off {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xec7c;');
+}
+.delete_forever {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xec7d;');
+}
+.accessibility_new {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xec7e;');
+}
+.check_circle_outline {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xec7f;');
+}
+.delete_outline {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xec80;');
+}
+.done_outline {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xec81;');
+}
+.maximize {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xec82;');
+}
+.minimize {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xec83;');
+}
+.offline_bolt {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xec84;');
+}
+.swap_horizontal_circle {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xec85;');
+}
+.accessible_forward {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xec86;');
+}
+.calendar_today {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xec87;');
+}
+.calendar_view_day {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xec88;');
+}
+.label_important {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xec89;');
+}
+.restore_from_trash {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xec8a;');
+}
+.supervised_user_circle {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xec8b;');
+}
+.text_rotate_up {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xec8c;');
+}
+.text_rotate_vertical {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xec8d;');
+}
+.text_rotation_angledown {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xec8e;');
+}
+.text_rotation_angleup {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xec8f;');
+}
+.text_rotation_down {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xec90;');
+}
+.text_rotation_none {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xec91;');
+}
+.commute {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xec92;');
+}
+.arrow_right_alt {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xec93;');
+}
+.work_off {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xec94;');
+}
+.work_outline {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xec95;');
+}
+.drag_indicator {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xec96;');
+}
+.horizontal_split {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xec97;');
+}
+.label_important_outline {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xec98;');
+}
+.vertical_split {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xec99;');
+}
+.voice_over_off {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xec9a;');
+}
+.segment {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xec9b;');
+}
+.contact_support {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xec9c;');
+}
+.compress {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xec9d;');
+}
+.filter_list_alt {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xec9e;');
+}
+.expand {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xec9f;');
+}
+.edit_off {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xeca0;');
+}
+.10k {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xeca1;');
+}
+.10mp {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xeca2;');
+}
+.11mp {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xeca3;');
+}
+.12mp {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xeca4;');
+}
+.13mp {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xeca5;');
+}
+.14mp {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xeca6;');
+}
+.15mp {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xeca7;');
+}
+.16mp {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xeca8;');
+}
+.17mp {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xeca9;');
+}
+.18mp {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xecaa;');
+}
+.19mp {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xecab;');
+}
+.1k {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xecac;');
+}
+.1k_plus {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xecad;');
+}
+.20mp {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xecae;');
+}
+.21mp {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xecaf;');
+}
+.22mp {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xecb0;');
+}
+.23mp {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xecb1;');
+}
+.24mp {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xecb2;');
+}
+.2k {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xecb3;');
+}
+.2k_plus {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xecb4;');
+}
+.2mp {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xecb5;');
+}
+.3k {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xecb6;');
+}
+.3k_plus {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xecb7;');
+}
+.3mp {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xecb8;');
+}
+.4k_plus {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xecb9;');
+}
+.4mp {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xecba;');
+}
+.5k {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xecbb;');
+}
+.5k_plus {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xecbc;');
+}
+.5mp {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xecbd;');
+}
+.6k {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xecbe;');
+}
+.6k_plus {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xecbf;');
+}
+.6mp {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xecc0;');
+}
+.7k {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xecc1;');
+}
+.7k_plus {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xecc2;');
+}
+.7mp {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xecc3;');
+}
+.8k {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xecc4;');
+}
+.8k_plus {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xecc5;');
+}
+.8mp {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xecc6;');
+}
+.9k {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xecc7;');
+}
+.9k_plus {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xecc8;');
+}
+.9mp {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xecc9;');
+}
+.account_tree {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xecca;');
+}
+.add_chart {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xeccb;');
+}
+.add_ic_call {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xeccc;');
+}
+.add_moderator {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xeccd;');
+}
+.all_inbox {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xecce;');
+}
+.approval {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xeccf;');
+}
+.assistant_direction {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xecd0;');
+}
+.assistant_navigation {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xecd1;');
+}
+.bookmarks {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xecd2;');
+}
+.bus_alert {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xecd3;');
+}
+.cases {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xecd4;');
+}
+.circle_notifications {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xecd5;');
+}
+.closed_caption_off {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xecd6;');
+}
+.connected_tv {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xecd7;');
+}
+.dangerous {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xecd8;');
+}
+.dashboard_customize {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xecd9;');
+}
+.desktop_access_disabled {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xecda;');
+}
+.drive_file_move_outline {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xecdb;');
+}
+.drive_file_rename_outline {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xecdc;');
+}
+.drive_folder_upload {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xecdd;');
+}
+.duo {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xecde;');
+}
+.explore_off {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xecdf;');
+}
+.file_download_done {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xece0;');
+}
+.rtt {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xece1;');
+}
+.grid_view {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xece2;');
+}
+.hail {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xece3;');
+}
+.home_filled {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xece4;');
+}
+.imagesearch_roller {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xece5;');
+}
+.label_off {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xece6;');
+}
+.library_add_check {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xece7;');
+}
+.logout {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xece8;');
+}
+.margin {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xece9;');
+}
+.mark_as_unread {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xecea;');
+}
+.menu_open {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xeceb;');
+}
+.mp {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xecec;');
+}
+.offline_share {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xeced;');
+}
+.padding {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xecee;');
+}
+.panorama_photosphere {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xecef;');
+}
+.panorama_photosphere_select {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xecf0;');
+}
+.person_add_disabled {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xecf1;');
+}
+.phone_disabled {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xecf2;');
+}
+.phone_enabled {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xecf3;');
+}
+.pivot_table_chart {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xecf4;');
+}
+.print_disabled {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xecf5;');
+}
+.railway_alert {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xecf6;');
+}
+.recommend {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xecf7;');
+}
+.remove_done {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xecf8;');
+}
+.remove_moderator {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xecf9;');
+}
+.repeat_on {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xecfa;');
+}
+.repeat_one_on {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xecfb;');
+}
+.replay_circle_filled {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xecfc;');
+}
+.reset_tv {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xecfd;');
+}
+.sd {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xecfe;');
+}
+.shield {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xecff;');
+}
+.shuffle_on {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xed00;');
+}
+.speed {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xed01;');
+}
+.stacked_bar_chart {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xed02;');
+}
+.stream {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xed03;');
+}
+.swipe {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xed04;');
+}
+.switch_account {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xed05;');
+}
+.tag {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xed06;');
+}
+.thumb_down_off_alt {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xed07;');
+}
+.thumb_up_off_alt {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xed08;');
+}
+.toggle_off {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xed09;');
+}
+.toggle_on {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xed0a;');
+}
+.two_wheeler {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xed0b;');
+}
+.upload_file {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xed0c;');
+}
+.view_in_ar {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xed0d;');
+}
+.waterfall_chart {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xed0e;');
+}
+.wb_shade {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xed0f;');
+}
+.wb_twighlight {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xed10;');
+}
+.home_work {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xed11;');
+}
+.schedule_send {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xed12;');
+}
+.bolt {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xed13;');
+}
+.send_and_archive {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xed14;');
+}
+.workspaces_filled {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xed15;');
+}
+.file_present {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xed16;');
+}
+.workspaces_outline {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xed17;');
+}
+.fit_screen {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xed18;');
+}
+.saved_search {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xed19;');
+}
+.storefront {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xed1a;');
+}
+.amp_stories {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xed1b;');
+}
+.dynamic_feed {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xed1c;');
+}
+.euro {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xed1d;');
+}
+.height {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xed1e;');
+}
+.policy {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xed1f;');
+}
+.sync_alt {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xed20;');
+}
+.menu_book {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xed21;');
+}
+.emoji_flags {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xed22;');
+}
+.emoji_food_beverage {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xed23;');
+}
+.emoji_nature {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xed24;');
+}
+.emoji_people {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xed25;');
+}
+.emoji_symbols {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xed26;');
+}
+.emoji_transportation {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xed27;');
+}
+.post_add {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xed28;');
+}
+.people_alt {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xed29;');
+}
+.emoji_emotions {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xed2a;');
+}
+.emoji_events {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xed2b;');
+}
+.emoji_objects {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xed2c;');
+}
+.sports_basketball {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xed2d;');
+}
+.sports_cricket {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xed2e;');
+}
+.sports_esports {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xed2f;');
+}
+.sports_football {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xed30;');
+}
+.sports_golf {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xed31;');
+}
+.sports_hockey {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xed32;');
+}
+.sports_mma {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xed33;');
+}
+.sports_motorsports {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xed34;');
+}
+.sports_rugby {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xed35;');
+}
+.sports_soccer {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xed36;');
+}
+.sports {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xed37;');
+}
+.sports_volleyball {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xed38;');
+}
+.sports_tennis {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xed39;');
+}
+.sports_handball {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xed3a;');
+}
+.sports_kabaddi {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xed3b;');
+}
+.eco {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xed3c;');
+}
+.museum {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xed3d;');
+}
+.flip_camera_android {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xed3e;');
+}
+.flip_camera_ios {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xed3f;');
+}
+.cancel_schedule_send {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xed40;');
+}
+.apartment {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xed41;');
+}
+.bathtub {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xed42;');
+}
+.deck {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xed43;');
+}
+.fireplace {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xed44;');
+}
+.house {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xed45;');
+}
+.king_bed {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xed46;');
+}
+.nights_stay {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xed47;');
+}
+.outdoor_grill {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xed48;');
+}
+.single_bed {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xed49;');
+}
+.square_foot {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xed4a;');
+}
+.double_arrow {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xed4b;');
+}
+.sports_baseball {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xed4c;');
+}
+.attractions {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xed4d;');
+}
+.bakery_dining {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xed4e;');
+}
+.breakfast_dining {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xed4f;');
+}
+.car_rental {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xed50;');
+}
+.car_repair {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xed51;');
+}
+.dinner_dining {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xed52;');
+}
+.dry_cleaning {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xed53;');
+}
+.hardware {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xed54;');
+}
+.liquor {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xed55;');
+}
+.lunch_dining {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xed56;');
+}
+.nightlife {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xed57;');
+}
+.park {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xed58;');
+}
+.ramen_dining {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xed59;');
+}
+.celebration {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xed5a;');
+}
+.theater_comedy {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xed5b;');
+}
+.badge {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xed5c;');
+}
+.festival {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xed5d;');
+}
+.icecream {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xed5e;');
+}
+.volunteer_activism {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xed5f;');
+}
+.contactless {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xed60;');
+}
+.delivery_dining {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xed61;');
+}
+.brunch_dining {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xed62;');
+}
+.takeout_dining {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xed63;');
+}
+.ac_unit {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xed64;');
+}
+.airport_shuttle {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xed65;');
+}
+.all_inclusive {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xed66;');
+}
+.beach_access {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xed67;');
+}
+.business_center {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xed68;');
+}
+.casino {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xed69;');
+}
+.child_care {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xed6a;');
+}
+.child_friendly {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xed6b;');
+}
+.fitness_center {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xed6c;');
+}
+.golf_course {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xed6d;');
+}
+.hot_tub {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xed6e;');
+}
+.kitchen {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xed6f;');
+}
+.pool {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xed70;');
+}
+.room_service {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xed71;');
+}
+.smoke_free {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xed72;');
+}
+.smoking_rooms {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xed73;');
+}
+.spa {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xed74;');
+}
+.no_meeting_room {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xed75;');
+}
+.meeting_room {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xed76;');
+}
+.goat {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xed77;');
+}
+

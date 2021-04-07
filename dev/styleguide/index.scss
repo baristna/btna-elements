@@ -1,0 +1,32 @@
+@import '~@btna/styles/theme';
+.screen {
+  margin-bottom: 50px;
+}
+
+.table {
+  tr {
+    @include theme(border-bottom, defaults, border, 1px solid);
+  }
+
+  thead {
+    @include theme(border-bottom, defaults, border, 2px solid);
+
+    tr {
+      @include theme(border-bottom, defaults, border, 1px dashed);
+    }
+  }
+
+  th, td {
+    text-align: left;
+    padding: 5px 15px;
+  }
+}
+
+.tabsContent {
+  padding: 10px;
+}
+
+.highlight {
+  font-weight: 700;
+  @include theme(color, defaults, highlight)
+}

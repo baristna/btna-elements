@@ -1,0 +1,11 @@
+@import '~@btna/styles/theme.scss';
+
+.navbar {
+  height: 100%;
+  display: flex;
+  align-items: center;
+}
+
+.button:not(:last-child) { 
+  // @include theme(border-right, defaults, border-smooth, 1px solid);
+}

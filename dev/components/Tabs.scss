@@ -1,0 +1,35 @@
+@import '~@btna/styles/theme.scss';
+
+.tabs {
+  @include theme(border, defaults, border, 1px solid);
+  width: 100%;
+  overflow: hidden;
+}
+
+.head {
+  @include theme(border, defaults, border, 1px solid);
+  display: flex;
+}
+
+.button {
+  padding: 10px;
+  background: #ccc;
+  cursor: pointer;
+}
+
+.body {
+  width: 100%;
+  display: flex;
+  flex-wrap: nowrap;
+
+  &.dynamic {
+    align-items: flex-start;
+    transition: margin-left 0.3s, height 0.3s;
+  }
+}
+
+.content {
+  width: 100%;
+  flex: 1 0 100%;
+  overflow: hidden;
+}

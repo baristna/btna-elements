@@ -1,0 +1,44 @@
+{
+  "name": "@btna/elements",
+  "version": "1.1.26",
+  "description": "",
+  "author": "baristna <baristna@gmail.com>",
+  "license": "ISC",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next ./dev --port 4001",
+    "build": "webpack --config webpack.prod.config.js"
+  },
+  "devDependencies": {
+    "@babel/core": "7.7.7",
+    "@babel/plugin-proposal-function-bind": "7.7.4",
+    "@babel/plugin-proposal-object-rest-spread": "7.7.7",
+    "@babel/plugin-transform-react-jsx": "7.7.7",
+    "@babel/preset-env": "7.7.7",
+    "@babel/preset-es2015": "7.0.0-beta.53",
+    "@babel/preset-react": "7.7.4",
+    "@btna/helpers": "^1.0.0",
+    "@btna/hooks": "^1.0.1",
+    "@btna/styles": "^1.0.1",
+    "@zeit/next-sass": "^1.0.1",
+    "babel-loader": "8.0.6",
+    "next": "9.1.6",
+    "node-sass": "4.9.3",
+    "react": "16.11.0",
+    "react-dom": "16.11.0",
+    "react-redux": "7.1.3",
+    "react-syntax-highlighter": "12.2.1",
+    "react-throttle": "0.3.0",
+    "redux": "4.0.4",
+    "redux-devtools-extension": "2.13.8",
+    "redux-thunk": "2.3.0",
+    "webpack": "4.41.4",
+    "webpack-cli": "3.3.10"
+  },
+  "peerDependencies": {
+    "@btna/styles": "^1.0.1",
+    "next": "9.1.6",
+    "react": "16.11.0",
+    "react-dom": "16.11.0"
+  }
+}

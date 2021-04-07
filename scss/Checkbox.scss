@@ -1,0 +1,57 @@
+@import '~@btna/styles/theme.scss';
+@import '~@btna/styles/variables.scss';
+
+.checkbox {
+  position: relative;
+  display: inline-flex;
+  user-select: none;
+  cursor: pointer;
+  
+  &.hover:hover {
+    @include theme(background, input, background-hover);
+  }
+}
+
+.label {
+  cursor: pointer;
+  user-select: none;
+  line-height: $checkbox-size;
+  padding-left: $general-element-gap * 2 + $checkbox-size;
+  padding-right: $general-element-gap;
+  padding-top: $general-element-gap;
+  padding-bottom: $general-element-gap;
+  z-index: 1;
+}
+
+.box {
+  position: absolute;
+  flex: 0 0 $checkbox-size;
+  width: $checkbox-size;
+  height: $checkbox-size;
+  left: $general-element-gap;
+  top: $general-element-gap;
+
+  border-radius: $input-radius;
+  @include theme(border, input, border, 2px solid);
+
+  .check {
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+    font-size: calc($checkbox-size);
+    font-weight: 700;
+    @include theme(color, input, border);
+  }
+
+  &.center {
+    top: 50%;
+    transform: translateY(-50%);
+  }
+}
+
+.native {
+  position: absolute;
+  z-index: -1;
+  opacity: 0;
+}

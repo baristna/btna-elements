@@ -1,0 +1,1 @@
+{"ast":null,"code":"export { default as DefaultLayout } from './default';","map":{"version":3,"sources":["/Users/baristna/Projects/tna/elements/dev/layouts/index.js"],"names":["default","DefaultLayout"],"mappings":"AAAA,SAASA,OAAO,IAAIC,aAApB,QAAyC,WAAzC","sourcesContent":["export { default as DefaultLayout } from './default'\n"]},"metadata":{},"sourceType":"module"}

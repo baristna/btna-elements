@@ -1,0 +1,1 @@
+{"ast":null,"code":"export default {\n  TICK: 'TICK'\n};","map":{"version":3,"sources":["/Users/baristna/Projects/tna/elements/dev/actions/action-types/clock.js"],"names":["TICK"],"mappings":"AAAA,eAAe;AACbA,EAAAA,IAAI,EAAE;AADO,CAAf","sourcesContent":["export default {\n  TICK: 'TICK'\n}"]},"metadata":{},"sourceType":"module"}

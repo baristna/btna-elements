@@ -1,0 +1,65 @@
+@import '~@btna/styles/theme.scss';
+@import '~@btna/styles/variables.scss';
+
+.select { 
+  position: relative;
+  height: $input-base-height;
+  border-radius: $input-radius;
+  padding: $input-base-padding;
+  display: flex;
+  align-items: center;
+  cursor: pointer;
+  user-select: none;
+
+  @include theme(background, input, background);
+
+  select {
+    left: 0;
+    right: 0;
+    width: 100%;
+    position: absolute;
+    opacity: 0;
+    bottom: 0;
+    top: 0;
+    cursor: pointer;
+  }
+
+  &:not(.custom) {
+    select {
+      z-index: 1;
+    }
+  }
+
+  &.custom {
+    select {
+      z-index: -1;
+      user-select: none;
+      pointer-events: none;
+    }
+  }
+}
+
+.icon {
+  margin-left: $general-element-gap;
+}
+
+.options {
+  position: absolute;
+  min-width: 100%;
+  top: 100%;
+  left: 0;
+  max-height: $select-menu-max-height;
+  overflow-y: scroll;
+
+  @include theme(background, input, background);
+}
+
+.option {
+  width: 100%;
+  padding: $input-base-padding;
+  user-select: none;
+
+  &:hover {
+    @include theme(background, input, background-hover);
+  }
+}
